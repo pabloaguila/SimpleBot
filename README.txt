@@ -1,0 +1,1 @@
+This is a simple Telegram Bot that has only one command.
